@@ -1,5 +1,5 @@
 # SPECS_scraper
-This is an unofficial script to get results from specs.cmgg.be/gene_data
+This is an unofficial script to get results from specs.cmgg.be/gene_data (SPECS: A non-parametric method to identify tissue-specific molecular features for unbalanced sample groups).
 
 SPECS is a score, that will allow you to understand, what tissue a gene is most expressed in (https://github.com/celineeveraert/SPECS).
 A Website based on GTEX data can be found here (https://specs.cmgg.be/).
